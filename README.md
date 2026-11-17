@@ -95,7 +95,7 @@ Overview of dynamically assigned IP addresses and DHCP leases.
 
 Verification of the IP address dynamically assigned to the Windows client.
 
-![Client IP Configuration](screenshots/06.5-IP-client-assigned.png)
+![Client IP Configuration](screenshots/06.5-IP-client-assigned.png.png)
 
 ### 08. Group Policy Management
 
